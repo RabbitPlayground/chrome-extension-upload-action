@@ -34,7 +34,7 @@ Publish or not after upload (true / false)
 ## Example usage
 
 ```
-uses: RabbitPlayground/chrome-extension-upload-action@v1.4
+uses: fast-facts/chrome-extension-upload-action@v1.4
 with:
   refresh-token: 'xxxxxxxxxxxxxxxxxxxxxx'
   client-id: 'xxxxxxxxxxxxx'
