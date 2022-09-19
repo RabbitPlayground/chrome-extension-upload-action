@@ -33,7 +33,7 @@ Publish or not after upload (true / false)
 
 ## Example usage
 
-```
+```yml
 uses: fast-facts/chrome-extension-upload-action@v1.4
 with:
   refresh-token: 'xxxxxxxxxxxxxxxxxxxxxx'
